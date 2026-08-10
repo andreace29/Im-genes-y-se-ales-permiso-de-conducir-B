@@ -7,6 +7,8 @@ En el primer archivo estarán todas las imágenes de forma que se puedan imprimi
 En el segundo archivo están todas las imágenes, pero con sus nombres debajo para que sean más sencillas de buscar y/o identificar
 
 
+
+
 #### CRÉDITOS
 La autora de estos archivos soy yo, es decir, Andrea Colorado Esteban.
 
